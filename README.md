@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I am a highly motivated statistician and data scie
 Here are the tools and technologies I use:
 
 ![R Studio](https://img.shields.io/badge/R%20Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![janitor](https://img.shields.io/badge/janitor-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![caret](https://img.shields.io/badge/caret-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![mlr](https://img.shields.io/badge/mlr-276DC3?style=for-the-badge&logo=r&logoColor=white)
