@@ -74,7 +74,7 @@ You can find a range of projects here showcasing my expertise in:
 - Predictive Analytics and Time Series Forecasting
 
 ## 📫 How to Reach Me
-- LinkedIn: [David Owuor](in/david-owuor-74a6ab225)
+- LinkedIn: [David Owuor](https://www.linkedin.com/in/david-owuor-74a6ab225/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bukw1eQgLRTmRGyrK1hNpzA%3D%3D)
 - Email: [davidapamo2019@gmail.com]
   
 Feel free to check out my repositories and get in touch if you would like to collaborate or discuss data science ideas!
