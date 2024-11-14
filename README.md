@@ -1,6 +1,6 @@
 # Hi there, I'm David Apamo (Owuor) 👋
 
-Welcome to my GitHub profile! I am a highly motivated statistician and data scientist with a deep passion for exploring data, solving complex problems, and applying statistical and data mining techniques to deliver insights. My expertise spans across various tools and techniques in data science, business intelligence, and research. I am always eager to learn and collaborate on impactful projects.
+Welcome to my GitHub profile! I am a highly motivated statistician and a data scientist with passion for exploring data, solving complex problems, and applying statistical, machine learning and data mining techniques to deliver insights. My expertise spans across various tools and techniques in data science, business intelligence, econometrics and research. I am always eager to learn and collaborate on impactful projects.
 
 ## 👨‍💻 Skills and Expertise
 
