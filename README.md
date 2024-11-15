@@ -18,7 +18,7 @@ Here are the tools and technologies I use:
 ![e1071](https://img.shields.io/badge/e1071-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![survival](https://img.shields.io/badge/survival-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![survivalAnalysis](https://img.shields.io/badge/survivalAnalysis-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![survminer](https://img.shields.io/badge/survminer-276DC3?style=for-the-badge&logo=r&logoColor=white)]
+![survminer](https://img.shields.io/badge/survminer-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SurvMetrics](https://img.shields.io/badge/SurvMetrics-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![survML](https://img.shields.io/badge/survML-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![glmnet](https://img.shields.io/badge/glmnet-276DC3?style=for-the-badge&logo=r&logoColor=white)
