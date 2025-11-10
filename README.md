@@ -1,12 +1,14 @@
 # Hi there, I'm David Apamo (Owuor) 👋
 
-Welcome to my GitHub profile! I am a highly motivated statistician and a data scientist with passion for exploring data, solving complex problems, and applying statistical, machine learning and data mining techniques to deliver insights. My expertise spans across various tools and techniques in data science, business intelligence, econometrics and research. I am always eager to learn and collaborate on impactful projects.
+Welcome to my GitHub profile! I am a highly motivated Statistician, Data Scientist, and Epidemiology Master's student with a passion for exploring data, solving complex problems, and applying statistical, machine learning, and data mining techniques to uncover insights that drive impact. My expertise spans across data science, business intelligence, epidemiological modeling, and research analytics. I am deeply interested in applying quantitative methods to understand and improve public health outcomes. I am always eager to learn, collaborate, and contribute to meaningful data-driven projects.
+
+---
 
 ## 👨‍💻 Skills and Expertise
 
 ### Tools and Technologies
-Here are the tools and technologies I use:
 
+#### 🟦 R and Related Packages
 ![R Studio](https://img.shields.io/badge/R%20Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![tidyverse](https://img.shields.io/badge/tidyverse-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![janitor](https://img.shields.io/badge/janitor-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -17,7 +19,6 @@ Here are the tools and technologies I use:
 ![randomForest](https://img.shields.io/badge/randomForest-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![e1071](https://img.shields.io/badge/e1071-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![survival](https://img.shields.io/badge/survival-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![survivalAnalysis](https://img.shields.io/badge/survivalAnalysis-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![survminer](https://img.shields.io/badge/survminer-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SurvMetrics](https://img.shields.io/badge/SurvMetrics-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![survML](https://img.shields.io/badge/survML-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -43,7 +44,17 @@ Here are the tools and technologies I use:
 ![rpart](https://img.shields.io/badge/rpart-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![stringr](https://img.shields.io/badge/stringr-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+#### 🐍 Python and Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-003B57?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+#### 🧩 Other Software and Tools
 ![SAS](https://img.shields.io/badge/SAS-4A78B8?style=for-the-badge&logo=sas&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-4A78B8?style=for-the-badge&logo=spss&logoColor=white)
 ![STATA](https://img.shields.io/badge/STATA-1A7C9A?style=for-the-badge&logo=stata&logoColor=white)
@@ -52,17 +63,19 @@ Here are the tools and technologies I use:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Programming and Data Science
+---
+
+### 📊 Programming and Data Science
 - **R Programming for Data Science**
 - **Statistical Data Analysis**
 - **Data Mining using R and SAS**
-- **Data Cleaning and Management** using `R`, `STATA`, `SAS`, `MySQL`, `Excel`, `SPSS`
-  
-### Database Management and Business Intelligence
-- **Database Management** using `MySQL`
-- **Business Intelligence** with `Tableau`, `Power BI`, `MySQL`
+- **Data Cleaning and Management** with `R`, `Python`, `STATA`, `SAS`, `MySQL`, `Excel`, `SPSS`
 
-### Applied Analytical Techniques
+### 🗄️ Database Management and Business Intelligence
+- **Database Management** using `MySQL`
+- **Business Intelligence** with `Tableau`, `Power BI`
+
+### 📈 Applied Analytical Techniques
 - **Applied Regression Analysis**
 - **Econometrics**
 - **Applied Time Series Analysis**
@@ -70,23 +83,31 @@ Here are the tools and technologies I use:
 - **Survival Analysis**
 - **Survey Design** using `ODK`, `SurveyCTO`, `Kobo Toolbox`, `REDCap`
 
-### Research and Professional Skills
-- **Research Writing**
-- **Problem Solving**
+### 🎓 Research and Professional Skills
+- **Epidemiological Research**
+- **Scientific Writing and Computing**
 - **Analytical Thinking**
+- **Problem Solving**
 - **Attention to Detail**
 
+---
+
 ## 🌱 Currently Learning
-I am always expanding my skill set and currently diving deeper into advanced Data Science methodologies, Machine Learning, and Cloud-based data solutions.
+Expanding my skills in advanced epidemiological modeling, machine learning for public health, and cloud-based analytics (AWS & Google Cloud).
+
+---
 
 ## 🔭 Projects and Interests
-You can find a range of projects here showcasing my expertise in:
-- Statistical Data Analysis using R, STATA and SAS
-- Data Visualization with Tableau and Power BI
-- Predictive Analytics and Time Series Forecasting
+You’ll find projects here highlighting my expertise in:
+- Statistical Data Analysis using R, STATA, and SAS  
+- Predictive Analytics and Time Series Forecasting  
+- Data Visualization with Tableau and Power BI  
+- Epidemiological and Survival Analysis Modeling  
+
+---
 
 ## 📫 How to Reach Me
-- LinkedIn: [David Owuor](https://www.linkedin.com/in/david-owuor-74a6ab225/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bukw1eQgLRTmRGyrK1hNpzA%3D%3D)
-- Email: [davidapamo2019@gmail.com]
-  
-Feel free to check out my repositories and get in touch if you would like to collaborate or discuss data science ideas!
+- **LinkedIn:** [David Owuor](https://www.linkedin.com/in/david-owuor-74a6ab225)  
+- **Email:** davidapamo2019@gmail.com  
+
+Feel free to explore my repositories and connect if you’d like to collaborate on data science or epidemiology-focused research projects!
